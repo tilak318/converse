@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/converse/static/css/main.d030618b.css",
+    "main.js": "/converse/static/js/main.ef3957eb.js",
+    "static/js/453.162eb890.chunk.js": "/converse/static/js/453.162eb890.chunk.js",
+    "static/media/confetti.gif": "/converse/static/media/confetti.964376da75e123acc57c.gif",
+    "static/media/logo.png": "/converse/static/media/logo.f73e57d28c21b3a70bf9.png",
+    "static/media/insta.png": "/converse/static/media/insta.bfd935ccba95afd31a4f.png",
+    "static/media/great.png": "/converse/static/media/great.0a69827e3afcfbbf1f8d.png",
+    "index.html": "/converse/index.html",
+    "main.d030618b.css.map": "/converse/static/css/main.d030618b.css.map",
+    "main.ef3957eb.js.map": "/converse/static/js/main.ef3957eb.js.map",
+    "453.162eb890.chunk.js.map": "/converse/static/js/453.162eb890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d030618b.css",
+    "static/js/main.ef3957eb.js"
+  ]
+}
